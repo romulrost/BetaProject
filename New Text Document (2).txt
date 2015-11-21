@@ -1,0 +1,333 @@
+Adobe Photoshop Version: 2015.0.1 20150722.r.168 2015/07/22:23:59:59 CL 1032107  x64
+Operating System: Windows 8.1 64-bit
+Version: 8.1 or greaterSystem architecture: Intel CPU Family:6, Model:12, Stepping:3 with MMX, SSE Integer, SSE FP, SSE2, SSE3, SSE4.1, SSE4.2, AVX, AVX2
+Physical processor count: 4
+Processor speed: 1995 MHz
+Built-in memory: 4004 MB
+Free memory: 1530 MB
+Memory available to Photoshop: 3237 MB
+Memory used by Photoshop: 70 %
+Design Space: Disabled.
+Artboards: Enabled.
+3D Multitone Printing: Disabled.
+Highbeam: Disabled.
+Image tile size: 1024K
+Image cache levels: 4
+Font Preview: Medium
+TextComposer: Latin
+Display: 1
+Display Bounds: top=0, left=0, bottom=1080, right=1920
+OpenGL Drawing: Enabled.
+OpenGL Allow Old GPUs: Not Detected.
+OpenGL Drawing Mode: Advanced
+OpenGL Allow Normal Mode: True.
+OpenGL Allow Advanced Mode: True.
+AIFCoreInitialized=1
+AIFOGLInitialized=1
+OGLContextCreated=1
+NumGLGPUs=1
+NumCLGPUs=1
+glgpu[0].GLVersion="3.0"
+glgpu[0].GLMemoryMB=2048
+glgpu[0].GLName="Intel(R) HD Graphics 4600"
+glgpu[0].GLVendor="Intel"
+glgpu[0].GLVendorID=32902
+glgpu[0].GLDriverVersion="10.18.15.4256"
+glgpu[0].GLRectTextureSize=16384
+glgpu[0].GLRenderer="Intel(R) HD Graphics 4600"
+glgpu[0].GLRendererID=1042
+glgpu[0].HasGLNPOTSupport=1
+glgpu[0].GLDriver="igdumdim64.dll,igd10iumd64.dll,igd10iumd64.dll,igd12umd64.dll,igdumdim32,igd10iumd32,igd10iumd32,igd12umd32"
+glgpu[0].GLDriverDate="20150717000000.000000-000"
+glgpu[0].CanCompileProgramGLSL=1
+glgpu[0].GLFrameBufferOK=1
+glgpu[0].glGetString[GL_SHADING_LANGUAGE_VERSION]="1.30 - Build 10.18.15.4256"
+glgpu[0].glGetProgramivARB[GL_FRAGMENT_PROGRAM_ARB][GL_MAX_PROGRAM_INSTRUCTIONS_ARB]=[1447]
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_UNITS]=[8]
+glgpu[0].glGetIntegerv[GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS]=[192]
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS]=[32]
+glgpu[0].glGetIntegerv[GL_MAX_TEXTURE_IMAGE_UNITS]=[32]
+glgpu[0].glGetIntegerv[GL_MAX_DRAW_BUFFERS]=[8]
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_UNIFORM_COMPONENTS]=[4096]
+glgpu[0].glGetIntegerv[GL_MAX_FRAGMENT_UNIFORM_COMPONENTS]=[4096]
+glgpu[0].glGetIntegerv[GL_MAX_VARYING_FLOATS]=[64]
+glgpu[0].glGetIntegerv[GL_MAX_VERTEX_ATTRIBS]=[16]
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_PROGRAM]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_PROGRAM]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_SHADER]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_FRAGMENT_SHADER]=1
+glgpu[0].extension[AIF::OGL::GL_EXT_FRAMEBUFFER_OBJECT]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_RECTANGLE]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_TEXTURE_FLOAT]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_OCCLUSION_QUERY]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_VERTEX_BUFFER_OBJECT]=1
+glgpu[0].extension[AIF::OGL::GL_ARB_SHADER_TEXTURE_LOD]=0
+clgpu[0].CLPlatformVersion="1.2 "
+clgpu[0].CLDeviceVersion="1.2 "
+clgpu[0].CLMemoryMB=1593
+clgpu[0].CLName="Intel(R) HD Graphics 4600"
+clgpu[0].CLVendor="Intel(R) Corporation"
+clgpu[0].CLVendorID=32902
+clgpu[0].CLDriverVersion="10.18.15.4256"
+clgpu[0].CUDASupported=0
+clgpu[0].CLBandwidth=1.09597e+010
+clgpu[0].CLCompute=128.886
+License Type: Perpetual
+Serial number: 91198705682269962157
+Application folder: D:\Temp\PhotoshopPortable\App\Photoshop64\
+Temporary file path: C:\Users\Student\AppData\Local\Temp\
+Photoshop scratch has async I/O enabled
+Scratch volume(s):
+  Startup, 172.2G, 131.0G free
+Required Plug-ins folder: D:\Temp\PhotoshopPortable\App\Photoshop64\Required\Plug-Ins\
+Primary Plug-ins folder: D:\Temp\PhotoshopPortable\App\Photoshop64\Plug-Ins\
+
+Installed components:
+   A3DLIBS.dll   A3DLIB Dynamic Link Library   9.2.0.112   
+   ACE.dll   ACE 2015/03/11-23:42:10   79.562242   79.562242
+   AdbePM.dll   PatchMatch 2015/04/28:18:15:43   1.563170   1.563170
+   AdobeLinguistic.dll   Adobe Linguisitc Library   9.0.0   
+   AdobeOwl.dll   Adobe Owl   5.2.7   
+   AdobePDFL.dll   PDFL 2015/03/18-12:03:59   79.133307   79.133307
+   AdobeXMP.dll   Adobe XMP Core 2015/03/30-23:40:42   79.157747   79.157747
+   AdobeXMPFiles.dll   Adobe XMP Files 2015/03/30-23:40:42   79.157747   79.157747
+   AdobeXMPScript.dll   Adobe XMP Script 2015/03/30-23:40:42   79.157747   79.157747
+   adobe_caps.dll   Adobe CAPS   9,0,0,5   
+   AGM.dll   AGM 2015/03/11-23:42:10   79.562242   79.562242
+   ahclient.dll    AdobeHelp Dynamic Link Library   2.0.0.2   
+   AIDE.dll   AIDE 2015/03/20-23:41:44   79.562488   79.562488
+   amtlib.dll   AMTLib (64 Bit)   9.0.0.21 BuildVersion: 9.0; BuildDate: Mon Mar 9 2015 0:54:5)   1.000000
+   ARE.dll   ARE 2015/03/11-23:42:10   79.562242   79.562242
+   AXE8SharedExpat.dll   AXE8SharedExpat 2015/03/13-23:40:54   79.562390   79.562390
+   AXEDOMCore.dll   AXEDOMCore 2015/03/13-23:40:54   79.562390   79.562390
+   Bib.dll   BIB 2015/03/11-23:42:10   79.562242   79.562242
+   BIBUtils.dll   BIBUtils 2015/03/11-23:42:10   79.562242   79.562242
+   boost_date_time.dll   photoshopdva   8.0.0   
+   boost_signals.dll   photoshopdva   8.0.0   
+   boost_system.dll   photoshopdva   8.0.0   
+   boost_threads.dll   photoshopdva   8.0.0   
+   cg.dll   NVIDIA Cg Runtime   3.0.00007   
+   cgGL.dll   NVIDIA Cg Runtime   3.0.00007   
+   CIT.dll   Adobe CIT   2.3.7.33275   2.3.7.33275
+   CITThreading.dll   Adobe CITThreading   2.3.7.33275   2.3.7.33275
+   CoolType.dll   CoolType 2015/03/11-23:42:10   79.562242   79.562242
+   dnssd.dll   Bonjour   3,0,0,2   
+   dvaaudiodevice.dll   photoshopdva   8.0.0   
+   dvacore.dll   photoshopdva   8.0.0   
+   dvamarshal.dll   photoshopdva   8.0.0   
+   dvamediatypes.dll   photoshopdva   8.0.0   
+   dvametadata.dll   photoshopdva   8.0.0   
+   dvametadataapi.dll   photoshopdva   8.0.0   
+   dvametadataui.dll   photoshopdva   8.0.0   
+   dvaplayer.dll   photoshopdva   8.0.0   
+   dvatransport.dll   photoshopdva   8.0.0   
+   dvaui.dll   photoshopdva   8.0.0   
+   dvaunittesting.dll   photoshopdva   8.0.0   
+   dynamiclink.dll   photoshopdva   8.0.0   
+   ExtendScript.dll   ExtendScript 2015/04/17-16:55:22   80.1017022   80.1017022
+   icucnv40.dll   International Components for Unicode 2014/10/31-16:52:45    Build gtlib_6.0.21339   
+   icudt40.dll   International Components for Unicode 2014/10/31-16:52:45    Build gtlib_6.0.21339   
+   icuuc40.dll   International Components for Unicode 2014/10/31-16:52:45    Build gtlib_6.0.21339   
+   igestep30.dll   IGES Reader   9.3.0.113   
+   imslib.dll   IMSLib DLL   9.0.1.14   
+   JP2KLib.dll   JP2KLib 2015/06/30-01:10:54   79.258447   79.258447
+   libifcoremd.dll   Intel(r) Visual Fortran Compiler   10.0 (Update A)   
+   libiomp5md.dll   Intel(R) OpenMP* Runtime Library   5.0   
+   libmmd.dll   Intel(r) C Compiler, Intel(r) C++ Compiler, Intel(r) Fortran Compiler   12.0   
+   LogSession.dll   LogSession   7.2.1.3600   
+   mediacoreif.dll   photoshopdva   8.0.0   
+   MPS.dll   MPS 2015/03/11-23:42:10   79.562263   79.562263
+   msvcp100.dll   Microsoft® Visual Studio® 2010   10.00.40219.325   
+   msvcp110.dll   Microsoft® Visual Studio® 2012   11.00.51106.1   
+   msvcp120.dll   Microsoft® Visual Studio® 2013   12.00.21005.1   
+   msvcr100.dll   Microsoft® Visual Studio® 2010   10.00.40219.325   
+   msvcr110.dll   Microsoft® Visual Studio® 2012   11.00.51106.1   
+   msvcr120.dll   Microsoft® Visual Studio® 2013   12.00.21005.1   
+   pdfsettings.dll   Adobe PDFSettings   1.04   
+   Photoshop.dll   Adobe Photoshop CC 2015   16.0.1   
+   Plugin.dll   Adobe Photoshop CC 2015   16.0.1   
+   PlugPlugExternalObject.dll   Adobe(R) CEP PlugPlugExternalObject Standard Dll (64 bit)   6.0.0   
+   PlugPlugOwl.dll   Adobe(R) CSXS PlugPlugOwl Standard Dll (64 bit)   6.0.0.96   
+   PSArt.dll   Adobe Photoshop CC 2015   16.0.1   
+   PSViews.dll   Adobe Photoshop CC 2015   16.0.1   
+   SCCore.dll   ScCore 2015/04/17-16:55:22   80.1017022   80.1017022
+   svml_dispmd.dll   Intel(r) C Compiler, Intel(r) C++ Compiler, Intel(r) Fortran Compiler   12.0   
+   tbb.dll   Intel(R) Threading Building Blocks for Windows   4, 2, 2013, 1114   
+   tbbmalloc.dll   Intel(R) Threading Building Blocks for Windows   4, 2, 2013, 1114   
+   TfFontMgr.dll   FontMgr   9.3.0.113   
+   TfKernel.dll   Kernel   9.3.0.113   
+   TFKGEOM.dll   Kernel Geom   9.3.0.113   
+   TFUGEOM.dll   Adobe, UGeom©   9.3.0.113   
+   vcomp100.dll   Microsoft® Visual Studio® 2010   10.00.40219.325   
+   VulcanControl.dll   Vulcan Application Control Library   5.1.0.50   
+   VulcanMessage5.dll   Vulcan Message Library   5.1.0.50   
+   WRServices.dll   WRServices Fri Mar 07 2014 15:33:10   Build 0.20204   0.20204
+   wu3d.dll   U3D Writer   9.3.0.113   
+
+
+Required plug-ins:
+
+   3D Studio 16.0.1 (2015.0.1 x001 x003)
+   Accented Edges 16.0.1
+   Adaptive Wide Angle 16.0.1
+   Angled Strokes 16.0.1
+   Average 16.0.1 (2015.0.1 x001 x003)
+   Bas Relief 16.0.1
+   BMP 16.0.1
+   Camera Raw 8.0
+   Camera Raw Filter 8.0
+   Chalk & Charcoal 16.0.1
+   Charcoal 16.0.1
+   Chrome 16.0.1
+   Cineon 16.0.1 (2015.0.1 x001 x003)
+   Clouds 16.0.1 (2015.0.1 x001 x003)
+   Collada 16.0.1 (2015.0.1 x001 x003)
+   Color Halftone 16.0.1
+   Colored Pencil 16.0.1
+   CompuServe GIF 16.0.1
+   Conté Crayon 16.0.1
+   Craquelure 16.0.1
+   Crop and Straighten Photos 16.0.1 (2015.0.1 x001 x003)
+   Crop and Straighten Photos Filter 16.0.1
+   Crosshatch 16.0.1
+   Crystallize 16.0.1
+   Cutout 16.0.1
+   Dark Strokes 16.0.1
+   De-Interlace 16.0.1
+   Dicom 16.0.1
+   Difference Clouds 16.0.1 (2015.0.1 x001 x003)
+   Diffuse Glow 16.0.1
+   Displace 16.0.1
+   Dry Brush 16.0.1
+   Eazel Acquire 16.0.1 (2015.0.1 x001 x003)
+   Entropy 16.0.1 (2015.0.1 x001 x003)
+   Export Color Lookup Tables NO VERSION
+   Extrude 16.0.1
+   FastCore Routines 16.0.1 (2015.0.1 x001 x003)
+   Fibers 16.0.1
+   Film Grain 16.0.1
+   Filter Gallery 16.0.1
+   Flash 3D 16.0.1 (2015.0.1 x001 x003)
+   Fresco 16.0.1
+   Glass 16.0.1
+   Glowing Edges 16.0.1
+   Google Earth 4 16.0.1 (2015.0.1 x001 x003)
+   Grain 16.0.1
+   Graphic Pen 16.0.1
+   Halftone Pattern 16.0.1
+   HDRMergeUI 16.0.1
+   HSB/HSL 16.0.1
+   IFF Format 16.0.1
+   IGES 16.0.1 (2015.0.1 x001 x003)
+   Ink Outlines 16.0.1
+   JPEG 2000 16.0.1
+   Kurtosis 16.0.1 (2015.0.1 x001 x003)
+   Lens Blur 16.0.1
+   Lens Correction 16.0.1
+   Lens Flare 16.0.1
+   Liquify 16.0.1
+   Matlab Operation 16.0.1 (2015.0.1 x001 x003)
+   Maximum 16.0.1 (2015.0.1 x001 x003)
+   Mean 16.0.1 (2015.0.1 x001 x003)
+   Measurement Core 16.0.1 (2015.0.1 x001 x003)
+   Median 16.0.1 (2015.0.1 x001 x003)
+   Mezzotint 16.0.1
+   Minimum 16.0.1 (2015.0.1 x001 x003)
+   MMXCore Routines 16.0.1 (2015.0.1 x001 x003)
+   Mosaic Tiles 16.0.1
+   Multiprocessor Support 16.0.1 (2015.0.1 x001 x003)
+   Neon Glow 16.0.1
+   Note Paper 16.0.1
+   NTSC Colors 16.0.1 (2015.0.1 x001 x003)
+   Ocean Ripple 16.0.1
+   OpenEXR 16.0.1
+   Paint Daubs 16.0.1
+   Palette Knife 16.0.1
+   Patchwork 16.0.1
+   Paths to Illustrator 16.0.1
+   PCX 16.0.1 (2015.0.1 x001 x003)
+   Photocopy 16.0.1
+   Photoshop 3D Engine 16.0.1 (2015.0.1 x001 x003)
+   Photoshop Touch 14.0
+   Picture Package Filter 16.0.1 (2015.0.1 x001 x003)
+   Pinch 16.0.1
+   Pixar 16.0.1 (2015.0.1 x001 x003)
+   Plaster 16.0.1
+   Plastic Wrap 16.0.1
+   PLY 16.0.1 (2015.0.1 x001 x003)
+   PNG 16.0.1
+   Pointillize 16.0.1
+   Polar Coordinates 16.0.1
+   Portable Bit Map 16.0.1 (2015.0.1 x001 x003)
+   Poster Edges 16.0.1
+   PRC 16.0.1 (2015.0.1 x001 x003)
+   Radial Blur 16.0.1
+   Radiance 16.0.1 (2015.0.1 x001 x003)
+   Range 16.0.1 (2015.0.1 x001 x003)
+   Render Color Lookup Grid NO VERSION
+   Reticulation 16.0.1
+   Ripple 16.0.1
+   Rough Pastels 16.0.1
+   Save for Web 16.0.1
+   ScriptingSupport 16.0.1
+   Shake Reduction 16.0.1
+   Shear 16.0.1
+   Skewness 16.0.1 (2015.0.1 x001 x003)
+   Smart Blur 16.0.1
+   Smudge Stick 16.0.1
+   Solarize 16.0.1 (2015.0.1 x001 x003)
+   Spaces 16.0.1
+   Spatter 16.0.1
+   Spherize 16.0.1
+   Sponge 16.0.1
+   Sprayed Strokes 16.0.1
+   Stained Glass 16.0.1
+   Stamp 16.0.1
+   Standard Deviation 16.0.1 (2015.0.1 x001 x003)
+   STL 16.0.1 (2015.0.1 x001 x003)
+   Sumi-e 16.0.1
+   Summation 16.0.1 (2015.0.1 x001 x003)
+   Targa 16.0.1
+   Texturizer 16.0.1
+   Tiles 16.0.1
+   Torn Edges 16.0.1
+   Twirl 16.0.1
+   U3D 16.0.1 (2015.0.1 x001 x003)
+   Underpainting 16.0.1
+   Vanishing Point 16.0.1
+   Variance 16.0.1 (2015.0.1 x001 x003)
+   Virtual Reality Modeling Language | VRML 16.0.1 (2015.0.1 x001 x003)
+   Water Paper 16.0.1
+   Watercolor 16.0.1
+   Wave 16.0.1
+   Wavefront|OBJ 16.0.1 (2015.0.1 x001 x003)
+   WIA Support 16.0.1 (2015.0.1 x001 x003)
+   Wind 16.0.1
+   Wireless Bitmap 16.0.1 (2015.0.1 x001 x003)
+   ZigZag 16.0.1
+
+Optional and third party plug-ins: NONE
+
+
+Plug-ins that failed to load: NONE
+
+Extensions:
+
+   Ink, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\Ink\index.html
+   Libraries, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.DesignLibraryPanel.html\index.html
+   GuideGuide, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\GuideGuide\index.html
+   Adobe Color Themes, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.KulerPanel.html\index.html
+   Export As, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.webpa.crema\PSPanel\dialog.html
+   Device Preview, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.preview\PSPanel\panel.html
+   Welcome, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.photoshop.welcome\index.html
+   Share on Behance, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.behance.shareonbehance.html\index.html
+   Oven, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\Oven\index.html
+   Layrs Control 2, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\LayrsControl_2\index.html
+   , D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.preview\PSLoader\loader.html
+   Export As, D:\Temp\PhotoshopPortable\App\Photoshop64\Required\CEP\Extensions\com.adobe.webpa.crema\PSPanel\dialog.html
+
+Installed TWAIN devices: NONE
+
+
+
+https://github.com/dkolesnychenko/BrainAcademy
